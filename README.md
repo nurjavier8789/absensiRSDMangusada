@@ -1,3 +1,2 @@
-# Absensi
-
-Untuk presensi RSD Mangusada menggunakan fitur jarak
+# Aplikasi Presensi RSD Mangusada Badung Bali
+Untuk presensi RSD Mangusada menggunakan fitur jarak dan face recognition
