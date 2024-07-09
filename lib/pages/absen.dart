@@ -128,7 +128,7 @@ class _AbsenPageState extends State<AbsenPage> {
                         print(selectedValue);
                       });
                     },
-                    items: <String>['HDR', 'TLD'].map<DropdownMenuItem<String>>(
+                    items: <String>['HDR'].map<DropdownMenuItem<String>>(
                       (String value) {
                         return DropdownMenuItem<String>(
                           value: value,
